@@ -1,0 +1,5 @@
+[1218/173607.388:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1223/185505.332:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1224/194521.364:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1224/194521.379:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Sajed-Hope\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\d3846f3d-d929-4228-abdb-08e19850bdbd: The system cannot find the path specified. (0x3)
+[0112/124704.110:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

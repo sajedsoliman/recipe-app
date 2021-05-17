@@ -1,0 +1,32 @@
+:root {
+	--main-color: #3498db;
+}
+
+body {
+	font-family: "Poppins";
+}
+
+button {
+	border: none;
+	cursor: pointer;
+}
+
+button:focus {
+	outline: none;
+}
+
+textarea {
+	border: none;
+}
+
+textarea:focus {
+	outline: none;
+}
+
+input {
+	border: none;
+}
+
+input:focus {
+	outline: none;
+}
